@@ -1,20 +1,18 @@
-hello world
-:vs*
+<!Doctype>
+<html>
 
-;vmpds;v*
-v
-q
-vq
-vmv4q4v4q
-v:
-v
-s:v
-v
-v
-s:vve
-v;eùv;vev
-ùeme;vm;e
-*
+<head>
+	<title>git learn</title>
+</head>
+
+<body>
+<main> 
+	<h1> Apprentissage de git</h1>
+	<p>premier cour de git</p>
+</main>
+</body>
+
+</html>
 
 
 
